@@ -26,7 +26,7 @@ You can trigger each function by sending a request to its corresponding endpoint
 
 ## Blog Post
 
-For a detailed explanation of the code and how it works, check out the accompanying blog post: [Your Blog URL Here]
+For a detailed explanation of the code and how it works, check out the accompanying [blog post](https://medium.com/@isuruariyarathna2k00/a-comprehensive-guide-to-azure-functions-with-node-js-3ebfbd2d0341).
 
 ## License
 
